@@ -9,9 +9,9 @@ This project used **Eigen** to implement vectorized programming.
 -----------------------------------------------------
 ## Progess
 Compeleted **Linear regression** *Cost function* and *Gradient descent*.  
-The next step is to rewrite the *fmincg function* in the excercise file provided by the course **Machine Learning** taught by **Andrew Ng**.
+The next step is to rewrite the *fmincg function* in the excercise file provided by course **Machine Learning** taught by **Andrew Ng**.
 
 
-- [x] Linear regressionv
-- [ ] Logistic regression
-- [ ] fmincg
+- [x] Linear regression
+- [x] Logistic regression
+- [ ] fmincgv
